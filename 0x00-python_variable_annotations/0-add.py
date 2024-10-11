@@ -6,4 +6,5 @@ A type annotated function 'add' that takes a float 'a' and 'b'
 
 
 def add(a: float, b: float) -> float:
+    ''' adds float a and b '''
     return a + b
